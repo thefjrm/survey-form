@@ -1,7 +1,7 @@
 # survey-form
 ---
 This repository is a survey page made as the second project of Responsive Web Design Course from **freeCodeCamp**.
-You can check a demo of this Website at [this link](#).
+You can check a demo of this Website at [this link](https://fjrm-survey-form.netlify.app/).
 
 ## Topics covered on this project:
 
